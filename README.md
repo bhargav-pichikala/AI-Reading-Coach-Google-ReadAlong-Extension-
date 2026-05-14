@@ -102,21 +102,6 @@ AudioTranscriptionProcessor
 
 > **Why Groq?** Groq's LPU hardware delivers ~10× faster inference than traditional GPUs.
 > Whisper-turbo transcribes a 2-second audio chunk in **under 500ms** — enabling the real-time feel.
-
----
-
-## 📁 Project Structure
-
-```
-ai-reading-coach/
-│
-├── app.py                 # Main Streamlit UI + WebRTC integration + polling loop
-├── audio_processor.py     # AudioTranscriptionProcessor — PCM buffering + Whisper calls
-├── utils.py               # Word alignment, HTML rendering, LLM functions
-├── requirements.txt       # Python dependencies
-└── README.md              # This file
-```
-
 ---
 
 ## 🚀 Quick Start
@@ -219,22 +204,7 @@ The app gracefully handles:
 
 ---
 
-## 🗺️ Roadmap
 
-- [ ] Streamlit Cloud deployment guide
-- [ ] Support for multiple languages
-- [ ] Parent/teacher dashboard with session history
-- [ ] PDF passage upload
-- [ ] Text-to-speech for word pronunciation help
-- [ ] Progress tracking across sessions
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgements
 
