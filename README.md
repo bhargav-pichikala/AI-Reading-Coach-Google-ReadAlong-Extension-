@@ -23,6 +23,17 @@ and answers questions — all powered by Groq's ultra-fast AI inference.
 
 ---
 
+## 📸 Screenshots
+
+### 🟢 Live Reading — Real-Time Word Highlighting
+![Live Reading]<img width="644" height="476" alt="image" src="https://github.com/user-attachments/assets/b6e0ff93-ce54-48ef-9fb0-252c7e18ad29" />
+
+### ⭐ Fluency Score
+![Fluency Score]<img width="242" height="392" alt="image" src="https://github.com/user-attachments/assets/7a486c3a-df63-4600-9ffd-2291ff363214" />
+
+### 🧠 Passage Meaning & 💬 Q&A
+![Meaning and QA]<img width="596" height="342" alt="image" src="https://github.com/user-attachments/assets/75c7e03a-e6e5-4bb6-95bd-8126d6807399" />
+
 ## ✨ Features
 
 | Feature | Description |
